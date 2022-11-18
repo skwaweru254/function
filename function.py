@@ -1,3 +1,6 @@
+num = 4
+
+
 def func(number=0):
     number += 90
     return number
