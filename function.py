@@ -11,7 +11,7 @@ print(func(), func(8))
 
 def hello():
     print("print skwaweru254 and return none")
-    return None
+    return None  # return none
 
 
 hello()
